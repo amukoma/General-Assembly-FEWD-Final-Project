@@ -1,2 +1,2 @@
-<h1> Great Ocean Road Attractions</h1>
+<h2> Great Ocean Road Attractions</h2>
 
